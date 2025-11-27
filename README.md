@@ -22,11 +22,11 @@ A simple project to practise building REST APIs using FastAPI and SQLAlchemy —
 ## Project Structure
 
 fast_api_practice/
-├── main.py         # Entry point — FastAPI app and route definitions
-├── database.py     # Database setup and connection
-├── models.py       # SQLAlchemy models (database schema)
-├── schemas.py      # Pydantic schemas for request/response validation
-├── requirements.txt
+- ├── main.py         # Entry point — FastAPI app and route definitions
+- ├── database.py     # Database setup and connection
+- ├── models.py       # SQLAlchemy models (database schema)
+- ├── schemas.py      # Pydantic schemas for request/response validation
+- ├── requirements.txt
 
 ## Why this project:
 
