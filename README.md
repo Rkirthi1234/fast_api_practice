@@ -1,10 +1,10 @@
-# fast_api_practice
+# FastAPI_Practice
 
 **Backend Practice Project using FastAPI + SQLAlchemy**  
 
 A simple project to practise building REST APIs using FastAPI and SQLAlchemy — implementing database models, CRUD operations (Create, Read, Update, Delete), and basic API endpoints.
 
-## 🧰 Features
+## Features
 
 - ✅ Basic API endpoints for CRUD operations  
 - ✅ Database integration using SQLAlchemy (cloud based)  
@@ -12,7 +12,7 @@ A simple project to practise building REST APIs using FastAPI and SQLAlchemy —
 - ✅ Simple project structure: `main.py`, `database.py`, `models.py`, `schemas.py`  
 - ✅ Easy to run and extend — ideal for learning and prototyping  
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
